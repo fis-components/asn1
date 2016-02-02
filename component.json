@@ -1,0 +1,10 @@
+{
+    "name": "asn1",
+    "description": "Contains parsers and serializers for ASN.1 (currently BER only)",
+    "repos": "https://github.com/mcavage/node-asn1.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.1.11"
+}
